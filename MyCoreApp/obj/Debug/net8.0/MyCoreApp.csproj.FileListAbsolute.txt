@@ -28,3 +28,4 @@ D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\A
 D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\Assignment1\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.pdb
 D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\Assignment1\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.genruntimeconfig.cache
 D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\Assignment1\MyCoreApp\MyCoreApp\obj\Debug\net8.0\ref\MyCoreApp.dll
+D:\Software Engineering Technology\Semester 5\DevOps Implementation - COMP 367\Assignment1\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.sourcelink.json
